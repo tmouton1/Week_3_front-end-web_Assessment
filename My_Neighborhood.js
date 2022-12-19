@@ -10,4 +10,4 @@ document.getElementById("randomRestaurantButton").addEventListener("click", func
     alert(food[random]);
   });
 
-  //page must be refreshed for new random restaurant so pop up. Is there a way around this?
+  //page must be refreshed for new random restaurant to pop up. Is there a way around this?
